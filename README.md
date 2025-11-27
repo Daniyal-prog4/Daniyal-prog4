@@ -10,7 +10,7 @@ Currently focusing on **C++**, **OOP**, **DSA**, **basic development skills**, *
 ##  About Me
 -  I’m currently learning **C++ (OOP + Projects)**  
 -  I enjoy solving logical problems and coding challenges  
--  Goal: Become a skilled software engineer  
+-  Goal: Become a skilled system engineer  
 -  Love to explore new tools, technologies, and programming concepts  
 -  Open to collaboration on coding projects and assignments
 
