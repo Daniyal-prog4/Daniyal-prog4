@@ -55,9 +55,9 @@ Here are some projects I’ve worked on:
 ---
 
 ##  Contact Me
-- **Email:** your-email@example.com  
-- **GitHub:** https://github.com/YOUR-USERNAME  
-- **LinkedIn:** (optional)
+- **Email:**  daniyalsaleem.becsef25@iba-suk.edu.pk
+- **GitHub:**   https://github.com/Daniyal-prog4
+- **LinkedIn:** https://www.linkedin.com/in/daniyal-saleem-a93033351/
 
 ---
 
